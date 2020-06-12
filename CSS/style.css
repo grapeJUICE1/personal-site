@@ -1,0 +1,135 @@
+
+.middle-container{
+
+
+}
+.bottom-container{
+background-color: #66BFBF;
+margin:0;
+background-size: cover;
+height: 140px;
+
+}
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  position: relative;
+  top: 40px;
+  margin:0 20px 0 20px;
+}
+.footer-link:hover{
+  text-decoration: none;
+  color: #a1f6f6;
+  position: relative;
+  top: 40px;
+  margin:0 20px 0 20px;
+   
+
+}
+.cc{
+  color:#EAF6F6;
+  margin-bottom: 0;
+  position: relative;
+  top: 70px;
+  
+}
+.btn {
+  margin: 8%;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #b8e0e0 5%, #11999e 100%);
+	background-color:#b8e0e0;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 6px #528ecc;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #b8e0e0 100%);
+	background-color:#11999e;
+  margin: 8%;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+  margin: 8%;
+}
+
+
+
+
+.top-container{
+background-color: #def4f0;
+padding-top: 10%;
+position:relative;
+font-family: 'Satisfy', cursive;
+line-height: 220%;
+margin: 0;
+}
+body{
+text-align: center;
+margin: 0;
+font-family: 'Merriweather', serif;
+
+
+}
+
+.cb{
+  position: absolute;
+
+
+}
+.ct{
+  position: absolute;
+  right: 20%;
+  top:13%;
+}
+.ch{font-size:2.5rem;
+    font-weight:normal;
+}
+h1{font-size:5.62rem;
+line-height: 220%;}
+h2{font-family: 'Montserrat', sans-serif;}
+h3{font-family: 'Montserrat', sans-serif;}
+h1,h2{
+  color:#66BFBF;
+}
+h3,a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+.is{
+  width:190px;
+  height:190px;
+  float: left;
+  margin-right: 30px;
+}
+.is2{
+  width:190px;
+  height:190px;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none ;
+  border-color: lightgrey;
+  width:9%;
+  border-top-style:dotted;
+  border-width: 9px;
+  margin: 60px auto 60px auto;
+}
+.ava{
+  width: 190px;
+  height: 200px;
+  margin-top: 10%
+}
